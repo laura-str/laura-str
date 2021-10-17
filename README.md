@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @laura-str
-- 🌱 I’m currently learning data analysis with Python, SQL & Tableau
-- 📫 How to reach me on github
+- 📈 I'm a Business Analyst, using mostly Python & QLIK
+- 📊 Also some experience with using PostgreSQL & Tableau
