@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @laura-str
 - 📈 I'm a Business Analyst, using mostly Python & QLIK
-- 📊 Also some experience with using PostgreSQL & Tableau
-- My Dashboards: https://public.tableau.com/app/profile/laura.str.mpler
+- 📊 Other Tools: PostgreSQL, MS Excel & Tableau
+- My Tableau Public Dashboards: https://public.tableau.com/app/profile/laura.str.mpler
